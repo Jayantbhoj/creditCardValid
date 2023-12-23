@@ -19,7 +19,7 @@ The program prompts the user to input a credit card number for validation using 
 ## Instructions
 
 - Clone or download the repository.
-- Compile and run the `credit_card_validator.cpp` file in a C++ environment.
+- Compile and run the `creditCardValid.cpp` file in a C++ environment.
 - Follow the on-screen prompts to input a credit card number for validation.
 
 Feel free to use this program to quickly verify credit card numbers using the Luhn Algorithm.
